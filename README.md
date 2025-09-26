@@ -1,3 +1,4 @@
+HEAD
 # JProy
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
@@ -31,3 +32,7 @@ Useful Gradle tasks and flags:
 
 Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
 For example, `core:clean` removes `build` folder only from the `core` project.
+
+# Zombie2DGame
+Pequeño desarrollo de un videojuego 2D de Zombies, la temática es ser un leñador en un bosque en donde los zombies empiezan salir de la tierra, para poder sobrevivir y ganar tendras que matarlos a todos con tu hacha.
+92c65795bb275c720b436f4126a2f30bc7887273
