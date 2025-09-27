@@ -88,7 +88,7 @@ Este proyecto implementa un videojuego de acción en 2D desarrollado con LibGDX 
 <div align=center >
   <img align=center width="640" height="531" alt="image" src="https://github.com/user-attachments/assets/37b6e6ce-6333-4da9-87ae-e214ed8c3127" />
 
-  ---
+  #
   
   <img align=center width="635" height="516" alt="image" src="https://github.com/user-attachments/assets/ba83b363-b953-486a-b532-9bfe6016884f" />
 </div>
