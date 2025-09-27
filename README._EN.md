@@ -34,7 +34,7 @@ Note that most tasks that are not specific to a single project can be run with `
 For example, `core:clean` removes `build` folder only from the `core` project.
 
 ## Description
-Este proyecto implementa un videojuego de acción en 2D desarrollado con LibGDX en Java, donde el jugador debe enfrentarse a hordas de zombies a través de múltiples rondas. El juego incluye un sistema de animaciones detallado para el jugador y los enemigos, barra de vida, ataques con efectos de audio, y enemigos con comportamientos autónomos. Además, incorpora rondas progresivas, zombies con distintas velocidades y tipos, y gestión de puntuación, ofreciendo una experiencia dinámica y desafiante.
+This project implements a 2D action video game developed with LibGDX in Java, where the player must face hordes of zombies through multiple rounds. The game features a detailed animation system for both the player and enemies, a health bar, attack actions with audio effects, and enemies with autonomous behaviors. Additionally, it includes progressive rounds, zombies with different speeds and types, and score management, providing a dynamic and challenging experience.
 
 ## Game Controls:
 
