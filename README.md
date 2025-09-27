@@ -1,6 +1,6 @@
 # ZOMBIE2DGAME
 
-## English / Inglés
+## English
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).  
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws the libGDX logo.
@@ -42,7 +42,7 @@ This project implements a 2D action video game developed with LibGDX in Java, wh
 
 ---
 
-## Español / Spanish
+## Español
 
 Un proyecto de [libGDX](https://libgdx.com/) generado con [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).  
 Este proyecto se generó con una plantilla que incluye launchers simples de aplicación y una extensión de `ApplicationAdapter` que dibuja el logo de libGDX.
@@ -87,6 +87,8 @@ Este proyecto implementa un videojuego de acción en 2D desarrollado con LibGDX 
 
 <div align=center >
   <img align=center width="640" height="531" alt="image" src="https://github.com/user-attachments/assets/37b6e6ce-6333-4da9-87ae-e214ed8c3127" />
+
+  ---
   
   <img align=center width="635" height="516" alt="image" src="https://github.com/user-attachments/assets/ba83b363-b953-486a-b532-9bfe6016884f" />
 </div>
