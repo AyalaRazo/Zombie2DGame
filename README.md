@@ -34,7 +34,7 @@ Note that most tasks that are not specific to a single project can be run with `
 For example, `core:clean` removes `build` folder only from the `core` project.
 
 ## Description
-Pequeño desarrollo de un videojuego 2D de Zombies, la temática es ser un leñador en un bosque en donde los zombies empiezan salir de la tierra, para poder sobrevivir y ganar tendras que matarlos a todos con tu hacha.
+Este proyecto implementa un videojuego de acción en 2D desarrollado con LibGDX en Java, donde el jugador debe enfrentarse a hordas de zombies a través de múltiples rondas. El juego incluye un sistema de animaciones detallado para el jugador y los enemigos, barra de vida, ataques con efectos de audio, y enemigos con comportamientos autónomos. Además, incorpora rondas progresivas, zombies con distintas velocidades y tipos, y gestión de puntuación, ofreciendo una experiencia dinámica y desafiante.
 
 ## Game Controls:
 
